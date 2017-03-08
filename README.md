@@ -1,8 +1,10 @@
 # Cyphon
 
 Low Bandwidth DoS (Denial of Service) tool written for Mac OS X based on RSnake's Slow Loris. 
+
 You can use this tool to test for DoS vulnerabilities on your server or to experiment it's potential. 
-Friendly interface !
+
+A very friendly GUI.
 
 # Code Example
 
