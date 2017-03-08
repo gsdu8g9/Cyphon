@@ -1,8 +1,8 @@
 # Cyphon
 
-Low Bandwidth DoS tool written for Mac OS X based on RSnake's Slow Loris. 
+Low Bandwidth DoS (Denial of Service) tool written for Mac OS X based on RSnake's Slow Loris. 
 
-I decided to code an executable OSX versionfor Mac OS users as there isn't any server load testers out there for the Mac OS.
+I decided to code an executable OSX version for Mac OS users as there isn't any server load testers out there for the Mac OS.
 
 
 https://en.wikipedia.org/wiki/Slowloris_(computer_security)
