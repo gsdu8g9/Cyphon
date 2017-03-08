@@ -20,6 +20,7 @@ https://en.wikipedia.org/wiki/Slowloris_(computer_security)
 - Use Cloud fare
 - Increase the number of clients your server can host.
 
-# Contributers 
+# Contributors 
 http://twitter.com/abila5h
+
 http://twitter.com/RSnake
