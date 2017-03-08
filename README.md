@@ -4,7 +4,7 @@ Low Bandwidth DoS (Denial of Service) tool written for Mac OS X based on RSnake'
 
 # Code Example
 
-I coded the executable in Xcode as a Cocoa-Applescript application. Refer to AppDelegate.applescript for the main code.
+I coded the executable in Objective C and Applescript using Xcode. Refer to AppDelegate.applescript for the main code.
 
 # Motivation
 
