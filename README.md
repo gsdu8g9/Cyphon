@@ -4,7 +4,7 @@ Low Bandwidth DoS (Denial of Service) tool written for Mac OS X based on RSnake'
 
 You can use this tool to test for DoS vulnerabilities on your server or to experiment it's potential. 
 
-A very friendly GUI.
+Friendly GUI !
 
 # Code Example
 
