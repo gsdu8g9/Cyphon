@@ -12,7 +12,7 @@ I coded the executable in Objective C and Applescript using Xcode. Refer to AppD
 
 # Motivation
 
-I decided to code an executable OSX version for Mac OS users as there are little server load testers out there for the Mac OS.
+Decided to code an executable OSX version for Mac OS users as there are little server load testers out there for the Mac OS.
 
 SlowLoris seemed to be the best solution for a Mac DoS tool due to its ability of being a low bandwidth yet poisonous HTTP client by using a single IP address to send several partial HTTP requests.
 
