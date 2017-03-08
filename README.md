@@ -4,7 +4,7 @@ Low Bandwidth DoS (Denial of Service) tool written for Mac OS X based on RSnake'
 
 # Code Example
 
-I coded the executable in Xcode as a Cocoa-Applescript application. 
+I coded the executable in Xcode as a Cocoa-Applescript application. Refer to AppDelegate.applescript for the main code.
 
 # Motivation
 
@@ -13,6 +13,9 @@ I decided to code an executable OSX version for Mac OS users as there isn't any 
 SlowLoris seemed to be the best solution for a Mac DoS tool due to its ability of being a low bandwidth yet poisonous HTTP client by using a single IP address to send several partial HTTP requests.
 
 https://en.wikipedia.org/wiki/Slowloris_(computer_security)
+
+# Download and demonstration
+You can download the Mac OS X Executable app above (Cyphon.zip)
 
 
 # Mitigating the attacks 
