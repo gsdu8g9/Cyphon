@@ -1,2 +1,2 @@
 # Cyphon
-Low Bandwidth DoS tool written for Mac based on RSnake's Slow Loris
+Low Bandwidth DoS tool written for Mac OS X based on RSnake's Slow Loris
