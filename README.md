@@ -2,7 +2,9 @@
 
 Low Bandwidth DoS (Denial of Service) tool written for Mac OS X based on RSnake's Slow Loris. 
 
+# Code Example
 
+The executable is written in Xcode as a Cocoa-Applescript application. 
 
 # Motivation
 
@@ -17,3 +19,7 @@ https://en.wikipedia.org/wiki/Slowloris_(computer_security)
 
 - Use Cloud fare
 - Increase the number of clients your server can host.
+
+# Contributers 
+http://twitter.com/abila5h
+http://twitter.com/RSnake
