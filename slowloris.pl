@@ -5,7 +5,7 @@ use IO::Socket::SSL;
 use Getopt::Long;
 use Config;
 
-$SIG{'PIPE'} = 'IGNORE';    #Ignore broken pipe errors
+$SIG{'PIPE'} = 'IGNORE';   
 
 print <<EOTEXT;
 ´´´´´´´´´´´´´´´´´´´´´´´´¶´´´´´´´´´¶´´´´´´´´´´´´´´´´´´´´´´´´´´
