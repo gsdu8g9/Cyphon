@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Slowloris_(computer_security)
 
 # Download and demonstration
 
-You can download the Mac OS X Executable app above (Cyphon.zip)
+You can download the Mac OS X Executable app above (Cyphon.zip). If it does not allow you to run, hold down the Option key as you launch the application.
 
 https://www.youtube.com/watch?v=UyWbNO0MIVs - Demonstration
 
